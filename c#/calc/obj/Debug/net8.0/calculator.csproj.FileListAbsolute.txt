@@ -1,0 +1,15 @@
+C:\projecten\my-repository\c#\calc\bin\Debug\net8.0\calculator.exe
+C:\projecten\my-repository\c#\calc\bin\Debug\net8.0\calculator.deps.json
+C:\projecten\my-repository\c#\calc\bin\Debug\net8.0\calculator.runtimeconfig.json
+C:\projecten\my-repository\c#\calc\bin\Debug\net8.0\calculator.dll
+C:\projecten\my-repository\c#\calc\bin\Debug\net8.0\calculator.pdb
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.sourcelink.json
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.dll
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\refint\calculator.dll
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.pdb
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\projecten\my-repository\c#\calc\obj\Debug\net8.0\ref\calculator.dll
